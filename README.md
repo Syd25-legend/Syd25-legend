@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on my game development projects<br>I'm a vibe coder but I know full stack web development<br>I'm good in C#<br>I know Python<br>I am a game developer as well at DSY Studio
 
 
